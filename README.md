@@ -3,7 +3,7 @@
 ## Project Overview
 
 **Project Title**: Sales Analysis    
-**Database**: `p1_retail_db`
+**Database**: `project1`
 
 This project demonstrates core SQL skills typically used by data analysts to explore, clean, and analyze retail sales data. It involves setting up a relational retail database, performing exploratory data analysis (EDA), and answering real-world business questions through SQL — using advanced techniques such as subqueries, Common Table Expressions (CTEs
 
